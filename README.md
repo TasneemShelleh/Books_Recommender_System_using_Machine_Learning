@@ -56,6 +56,9 @@ Neural Collaborative Filtering achieved the best overall performance based on th
 - Truncated SVD
 - KNN
 - K-Means Clustering
+  
+## How to Run
+python mainApp.py
 
 ## Repository Files
 
@@ -68,10 +71,7 @@ mainApp.py          Main application file
 ncf_model.h5        Saved trained neural model
 projectPaper.pdf    Project report
 testingAi.pdf       Testing/evaluation document
-
-## How to Run
-python mainApp.py
-
+```
 ## Authors
 Layan Salem
 Raghad Jamhour
