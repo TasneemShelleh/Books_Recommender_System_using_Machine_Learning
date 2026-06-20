@@ -73,6 +73,7 @@ projectPaper.pdf    Project report
 testingAi.pdf       Testing/evaluation document
 ```
 ## Authors
-Layan Salem
-Raghad Jamhour
-Tasneem Shelleh
+- Tasneem Shelleh
+- Layan Salem
+- Raghad Jamhour
+
